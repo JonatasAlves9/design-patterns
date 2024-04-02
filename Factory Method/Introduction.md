@@ -6,7 +6,6 @@ Também conhecido como: Método fábrica, Construtor virtual
 
 **Descrição:** O padrão de projeto Método de Fábrica é um *padrão Criacional* que oferece uma interface para a criação de objetos dentro de uma superclasse, permitindo que subclasses modifiquem o tipo de objetos a serem criados.
 
-
 ### Problema
 
 Você está desenvolvendo um sistema de gerenciamento de documentos para uma empresa e precisa lidar com diferentes tipos de documentos, como planilhas, apresentações e documentos de texto. Cada tipo de documento requer uma inicialização específica com diferentes atributos e configurações. Além disso, você está trabalhando em um ambiente onde novos tipos de documentos podem ser adicionados no futuro.
